@@ -30,7 +30,7 @@ class Student:
         self.var_teacher=StringVar()
 
        # header image  
-        img=Image.open(r"C:\Users\ASUS\OneDrive\Desktop\NEWPROJECT\images\header.jpg")
+        img=Image.open(r"images\header.jpg")
         img=img.resize((1530,130),Image.ANTIALIAS)
         self.photoimg=ImageTk.PhotoImage(img)
 
@@ -39,7 +39,7 @@ class Student:
         f_lb1.place(x=0,y=0,width=1535,height=130)
 
         # background image 
-        bg1=Image.open(r"C:\Users\ASUS\OneDrive\Desktop\NEWPROJECT\images\bg4.jpg")
+        bg1=Image.open(r"images\bg4.jpg")
         bg1=bg1.resize((1530,790),Image.ANTIALIAS)
         self.photobg1=ImageTk.PhotoImage(bg1)
 

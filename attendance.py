@@ -99,6 +99,13 @@ class Attendance:
         update_btn=Button(btn_frame,command=self.exportCsv,text="Export CSV",width=12,font=("verdana",12,"bold"),fg="white",bg="navyblue")
         update_btn.grid(row=0,column=1,padx=6,pady=8,sticky=W)
 
+        #Back Button
+        def prevPage():
+            self.root.destroy()
+            import main
+        back_button= Button( bg_img, text="Home Page", font=("verdana",12,"bold"),command=prevPage,fg="navyblue",bg="white",bd=5)
+        back_button.place(x=10,y=60,width=150,height=60)
+
     # =========================Fetch Data Import data ===============
     def fetchData(self,rows):
         global mydata

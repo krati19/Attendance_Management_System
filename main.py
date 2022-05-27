@@ -2,7 +2,6 @@ from tkinter import *
 import tkinter
 from tkinter import ttk
 from PIL import Image,ImageTk
-#from PIL import ImageFont,ImageDraw
 from student import Student
 import os
 from train import Train

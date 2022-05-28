@@ -16,8 +16,11 @@ mysqlite for database
 FEATURES:
 
 1.)Easy to use with interactive GUI support.
+
 2.)Creates/Updates database for details of students on registration.
+
 3.)Recognises faces and marks attendance automatically.
+
 4.)Shows name,id,date,time,attendance status after marking attendance.
 
 RUN LOCALLY:

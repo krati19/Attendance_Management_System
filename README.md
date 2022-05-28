@@ -26,6 +26,7 @@ FEATURES:
 RUN LOCALLY:
 
 Make sure you have dlib, cmake and mysqlite database installed.
+
 1.) Clone the repository 
     git clone https://github.com/krati19/Attendance_Management_System.git
     

@@ -6,11 +6,16 @@ detection and recognition algorithms. This system of attendance
 tracking helps alleviate major grievances in the present system 
 such as unnecessary time consumption and proxies.
 
+This project i smade on Visual Studio Code using Python version 3.10.4
+
 TECHNOLIGIES USED:
 
 Tkinter for whole GUI
+
 OpenCV for taking images and face recognition (cv2.face.LBPHFaceRecognizer_create())
+
 CSV, Numpy, Pandas, datetime etc. for other purposes.
+
 mysqlite for database
 
 FEATURES:

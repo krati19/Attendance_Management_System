@@ -6,7 +6,7 @@ detection and recognition algorithms. This system of attendance
 tracking helps alleviate major grievances in the present system 
 such as unnecessary time consumption and proxies.
 
-This project i smade on Visual Studio Code using Python version 3.10.4
+This project is made on Visual Studio Code using Python version 3.10.4
 
 TECHNOLIGIES USED:
 

@@ -38,7 +38,7 @@ Make sure you have dlib, cmake and mysqlite database installed.
 2.) type pip install -r requirements.txt in command prompt
     (this will install required package for project)
     
-3.) Create a data folder in a project folder.
+3.) Create a 'data' folder in a project folder.
 
 4.) Run main.py file
 
